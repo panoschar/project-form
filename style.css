@@ -1,0 +1,72 @@
+body{
+    background-color: rgb(215, 222, 252);
+}
+
+form{
+    border: 1px solid;
+    border-color: hsl(0, 2%, 80%);
+    background-color: white;
+    width: 20%;
+    
+    
+}
+
+#fullform{
+  position: absolute;
+  width: 1400px;
+  z-index: 15;
+  top: 20%;
+  left: 41%;
+  
+}
+#button{
+    
+    color: white;
+    background-color: rgb(43, 43, 250);
+    border-radius: 10%;
+    border: 1px solid;
+    text-align: center;
+    margin: auto;
+    display: flex;
+    
+    
+}
+
+.header{
+  color: grey;
+}
+
+#terms{
+font-family: Arial, Helvetica, sans-serif;
+font-size: 60%;
+color: grey;
+
+}
+
+.header2{
+    text-align: center;
+    color: grey
+}
+
+.text{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 70%;
+    text-align: center;
+    color: grey
+
+}
+
+.label{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 80%;
+    color: grey
+    
+   
+}
+
+.center{
+    text-align: center;
+    
+   
+}
+
